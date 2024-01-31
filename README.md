@@ -41,7 +41,7 @@ To get started with this project, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/DependencyInversion31layer.git
+   git clone https://github.com/yourusername/TZKT-Blockchain.git
    ```
 
 2. Open the Xcode project (`DependencyInversion31layer.xcodeproj`) in Xcode.
